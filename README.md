@@ -9,3 +9,10 @@
 ```
 /cartool /xxx/Assets.car /xxx/outputDirectory
 ```
+or
+```
+drag `cartool` into terminal
+drag `Assets.car` into terminal
+drag `outputDirectory`(folder) into terminal
+`Enter`
+```
